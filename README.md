@@ -4,7 +4,8 @@ It’ll consist of two parts:
 1. A public site that lets people view polls and vote in them.
 2. An admin site that lets you add, change,delete polls.
 
-Quick start
+Quick start:
+
 In command prompt run following commands:-
 cd mysite
 python manage.py runserver
