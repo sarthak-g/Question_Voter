@@ -7,6 +7,6 @@ It’ll consist of two parts:
 Quick start:
 
 In command prompt run following commands:-
-cd mysite
-python manage.py runserver
+1. cd mysite
+2. python manage.py runserver
 then head to http://127.0.0.1:8000/polls/ in browser.
